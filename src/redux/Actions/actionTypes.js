@@ -1,0 +1,3 @@
+export const GET_ALL_PERSON = 'GET_ALL_PERSON';
+export const CREATE_NEW_PERSON = 'CREATE_NEW_PERSON';
+export const REMOVE_PERSON = 'REMOVE_PERSON';
